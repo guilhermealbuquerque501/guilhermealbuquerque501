@@ -13,13 +13,13 @@ Meu nome é Guilherme Barbosa de Albuquerque, tenho 18 anos e sou natural de Sã
             src="https://custom-icon-badges.demolab.com/badge/Instagram-000000?color=%23000000&logo=instagram&logoColor=white&style=for-the-badge&labelColor=000000"
         />
     </a>
-    <a href="mailto:albuquerquebgui@gmail.com">
-        <img 
-            alt="Email" 
-            title="Email contact" 
-            src="https://custom-icon-badges.demolab.com/badge/Email-ffffff?color=%23ffffff&logo=gmail&logoColor=000000&style=for-the-badge&labelColor=ffffff"
-        />
-    </a> 
+<a href="mailto:albuquerquebgui@gmail.com">
+  <img 
+    alt="Email"
+    title="Email contact"
+    src="https://custom-icon-badges.demolab.com/badge/Email-ffffff?color=%23ffffff&logo=gmail&logoColor=000000&style=for-the-badge&labelColor=ffffff"
+  />
+</a>
 </p>
 
 ---
